@@ -1,1 +1,4 @@
-# mini-project-image-classification
+# Image-classification
+* Sunflower 
+* Red Rose 
+* * Lilly 
